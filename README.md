@@ -7,7 +7,7 @@ The project tasks were to configure a Load balancer and a  local DNS name resolu
   
 ****Key Takeaways****
 -  Learned what is a Load Balancer(distributes clients’ requests among underlying Web Servers and makes sure that the load is distributed in an optimal way.) and its concepts. 
--  Horizontal and Vertical scaling on architecture configuration.
+-  Horizontal and Vertical scaling on architecture configuration and how to do Local DNS name resolution.
 
 ****STEPS****
 
