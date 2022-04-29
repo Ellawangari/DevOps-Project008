@@ -3,7 +3,7 @@
 
 ****Project Implementation****
 
-The project tasks were to prepare two storage infrastructure on Linux servers and implement a basic web solution using WordPress. 
+The project tasks were to configure a Load balancer and a  local DNS name resolution to access the web servers from the load balancer server. 
   
 ****Key Takeaways****
 -  Learned what is a Load Balancer(distributes clients’ requests among underlying Web Servers and makes sure that the load is distributed in an optimal way.) and its concepts. 
